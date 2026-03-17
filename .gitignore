@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 비디오 녹화 파일 깃허브 업로드 제외
+output.avi
+
+# IDE 설정 파일 무시
+.idea/
+*.iml
